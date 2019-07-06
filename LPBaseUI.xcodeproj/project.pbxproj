@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -97,7 +97,6 @@
 				DD1513E06A7A9E2CCAEA41C1 /* Pods-LPBaseUI.debug.xcconfig */,
 				88B182C60ABA90717D292E80 /* Pods-LPBaseUI.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
